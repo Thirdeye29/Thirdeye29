@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thirdeye29
+- 👋 Hi, I’m @priyanshu
 - 👀 I’m interested in HACKING..
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
